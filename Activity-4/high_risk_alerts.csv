@@ -1,0 +1,8 @@
+timestamp,student_id,student_name,urgency,gpa,attendance,stress_level,assigned_mentor,mentor_contact,immediate_actions,alert_type
+2026-02-22 14:50:02,S002,Bob Smith,High,2.1,60,High,Dr. Michael Brown,mbrown@career.edu,"['Career planning sessions (bi-weekly)', 'Networking event participation']",HIGH_PRIORITY
+2026-02-22 14:50:02,S004,David Lee,Critical,1.9,55,Very High,Dr. Michael Brown,mbrown@career.edu,"['Intensive career counseling (weekly)', 'Immediate internship search support']",CRITICAL
+2026-02-22 14:50:02,S008,Henry Martinez,High,2.2,62,High,Prof. Amanda Lee,alee@university.edu,"['Weekly tutoring sessions (2x/week)', 'Study group participation']",HIGH_PRIORITY
+2026-02-22 14:50:02,S012,Leo Garcia,Critical,1.8,52,Very High,Dr. Michael Brown,mbrown@career.edu,"['Intensive career counseling (weekly)', 'Immediate internship search support']",CRITICAL
+2026-02-22 14:50:02,S016,Paul Walker,Critical,2.0,58,Very High,Dr. Michael Brown,mbrown@career.edu,"['Intensive career counseling (weekly)', 'Immediate internship search support']",CRITICAL
+2026-02-22 14:50:02,S023,Wendy Hall,High,2.1,64,High,Dr. Michael Brown,mbrown@career.edu,"['Career planning sessions (bi-weekly)', 'Networking event participation']",HIGH_PRIORITY
+2026-02-22 14:50:02,S026,Zoe Martin,Critical,1.7,50,Very High,Dr. Michael Brown,mbrown@career.edu,"['Intensive career counseling (weekly)', 'Immediate internship search support']",CRITICAL

@@ -1,0 +1,21 @@
+mentor_id,name,expertise,specialization,availability,max_students,mentor_type,experience_years,contact
+M001,Dr. Sarah Chen,Academic,Mathematics & Statistics,High,5,Academic,12,schen@university.edu
+M002,Prof. James Wilson,Academic,Computer Science & Programming,Medium,4,Academic,15,jwilson@university.edu
+M003,Dr. Emily Rodriguez,Academic,Physics & Engineering,High,6,Academic,10,erodriguez@university.edu
+M004,Ms. Lisa Thompson,Wellness,Mental Health & Stress Management,High,8,Wellness,8,lthompson@counseling.edu
+M005,Dr. Michael Brown,Career,Industry Connections & Internships,Medium,5,Career,20,mbrown@career.edu
+M006,Prof. Amanda Lee,Academic,Biology & Chemistry,High,5,Academic,14,alee@university.edu
+M007,Mr. David Kumar,Career,Resume & Interview Prep,High,10,Career,7,dkumar@career.edu
+M008,Dr. Jennifer Park,Wellness,Work-Life Balance & Time Management,Medium,6,Wellness,9,jpark@counseling.edu
+M009,Prof. Robert Martinez,Academic,Economics & Business,Medium,4,Academic,11,rmartinez@university.edu
+M010,Ms. Karen White,Wellness,Peer Support & Social Integration,High,12,Wellness,6,kwhite@counseling.edu
+M011,Dr. Thomas Anderson,Academic,English & Communication,High,5,Academic,13,tanderson@university.edu
+M012,Mr. Chris Johnson,Career,Entrepreneurship & Startups,Low,3,Career,15,cjohnson@career.edu
+M013,Dr. Patricia Davis,Academic,History & Social Sciences,Medium,4,Academic,10,pdavis@university.edu
+M014,Ms. Rachel Green,Wellness,Anxiety & Depression Support,High,7,Wellness,8,rgreen@counseling.edu
+M015,Prof. Steven Taylor,Career,Networking & Professional Development,Medium,6,Career,12,staylor@career.edu
+M016,Dr. Maria Garcia,Academic,Data Science & Analytics,High,5,Academic,9,mgarcia@university.edu
+M017,Mr. Brian Clark,Wellness,Physical Health & Fitness,Medium,8,Wellness,5,bclark@counseling.edu
+M018,Prof. Nancy Adams,Academic,Art & Design,Low,3,Academic,16,nadams@university.edu
+M019,Dr. Daniel Kim,Career,Graduate School Preparation,High,5,Career,14,dkim@career.edu
+M020,Ms. Sophie Turner,Wellness,Study Skills & Academic Confidence,High,10,Wellness,7,sturner@counseling.edu
