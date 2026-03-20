@@ -29,7 +29,7 @@ The project demonstrates skills in:
 - NumPy & Pandas
 - Matplotlib / Seaborn
 - Scikit-learn  
-- (Add TensorFlow / PyTorch if used)
+- TensorFlow
 
 ---
 
