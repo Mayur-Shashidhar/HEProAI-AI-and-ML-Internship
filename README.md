@@ -45,16 +45,6 @@ The project demonstrates skills in:
 
 ---
 
-## 📈 Results
-
-- Achieved **X% accuracy / performance metric**
-- Compared multiple models:
-  - Model A  
-  - Model B  
-  - Model C  
-- Best performing model: **________**
-
----
 
 ## 🛠️ Installation
 
